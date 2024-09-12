@@ -1,0 +1,7 @@
+E:\ITI_full_stack_.net\linq\linq_soll\darft\bin\Debug\darft.exe.config
+E:\ITI_full_stack_.net\linq\linq_soll\darft\bin\Debug\darft.exe
+E:\ITI_full_stack_.net\linq\linq_soll\darft\bin\Debug\darft.pdb
+E:\ITI_full_stack_.net\linq\linq_soll\darft\obj\Debug\darft.csproj.AssemblyReference.cache
+E:\ITI_full_stack_.net\linq\linq_soll\darft\obj\Debug\darft.csproj.CoreCompileInputs.cache
+E:\ITI_full_stack_.net\linq\linq_soll\darft\obj\Debug\darft.exe
+E:\ITI_full_stack_.net\linq\linq_soll\darft\obj\Debug\darft.pdb
